@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="alerter/src/main/res/layout/activity_mock.xml" value="0.1" />
+        <entry key="alerter/src/main/res/layout/alerter_alert_default_layout.xml" value="0.1" />
+        <entry key="alerter/src/main/res/layout/alerter_alert_view.xml" value="0.16259057971014493" />
         <entry key="app/src/main/res/drawable/bg_gray.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/bg_no_data.xml" value="0.121" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17864583333333334" />

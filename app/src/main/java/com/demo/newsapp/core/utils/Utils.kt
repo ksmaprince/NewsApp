@@ -9,6 +9,7 @@ import android.view.View
 import android.widget.TextView
 import android.widget.Toast
 import com.demo.newsapp.R
+import com.tapadoo.alerter.Alerter
 
 fun showMessage(context: Context, message: String?) {
   Toast.makeText(context, message ?: context.resources.getString(R.string.some_error), Toast.LENGTH_SHORT)
